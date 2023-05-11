@@ -1,0 +1,23 @@
+.carousel {
+    width: 390px;
+    height: 240px;
+    overflow: hidden;
+    position: relative;
+    margin: 10px auto;
+    border-radius: 10px;
+    /* display: flex;
+    align-items: center;
+    align-content: center; */
+}
+
+.carousel-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.5s ease-in-out;
+}
+
+.carousel-image:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+}

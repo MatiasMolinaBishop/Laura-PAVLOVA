@@ -1,0 +1,9 @@
+.contact-flex {
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 35px;
+
+}

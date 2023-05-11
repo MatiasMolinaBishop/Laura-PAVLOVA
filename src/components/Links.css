@@ -1,0 +1,23 @@
+.links-flex {
+    display: flex;
+    flex-direction: column;
+}
+
+.link-card {
+    color: #FFFAF4;
+    text-decoration: none;
+    padding: 13px 150px;
+    margin: 10px auto;
+    /* width: 800px; */
+    border: 1px solid rgba(26, 25, 25, 0.25);
+    border-radius: 10px;
+    box-shadow: 0 0 1px 0.5px rgba(0, 0, 0, 0.15);
+    background-color: #ba2d5f;
+    font-family: 'Bodoni Moda', serif;
+
+}
+
+.link-card:hover {
+    background-color: #D25380;
+    font-size: 1.1rem;
+}
