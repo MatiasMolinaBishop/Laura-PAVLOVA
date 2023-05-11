@@ -1,9 +1,10 @@
 .carousel {
     width: 390px;
-    height: 240px;
+    height: 260px;
     overflow: hidden;
     position: relative;
-    margin: 10px auto;
+    margin: 0px auto;
+    margin-bottom: 26px;
     border-radius: 10px;
     /* display: flex;
     align-items: center;

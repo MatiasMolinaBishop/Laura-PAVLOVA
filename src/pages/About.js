@@ -1,6 +1,5 @@
 import { Link } from "react-router-dom";
 import Carousel from "../components/carousel"
-import Contact from "../components/Contact"
 import './About.css'
 
 const About = () => {
@@ -9,7 +8,7 @@ const About = () => {
             <Carousel />
             <div className="content-card">
                 <p className="slogan-about">Crafting Happiness with Healthy Delights!</p>
-                <p className="content">At Laura PAVLOBA, our passion for baking and the joy it brings others is what sets us apart. Our company is dedicated to creating heavenly pavlovas, the epitome of delectable desserts. Each delightful creation is lovingly handcrafted with the utmost care and attention to detail. </p>
+                <p className="content">At Laura PAVLOBAS, our passion for baking and the joy it brings others is what sets us apart. Our company is dedicated to creating heavenly pavlovas, the epitome of delectable desserts. Each delightful creation is lovingly handcrafted with the utmost care and attention to detail. </p>
                 <p className="content"> Whether you're treating yourself to a well-deserved indulgence or surprising a loved one, our pavlovas are the perfect choice to elevate any occasion.</p>
             </div>
             <div className="contact-flex">
